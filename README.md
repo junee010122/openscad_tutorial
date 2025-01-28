@@ -12,8 +12,8 @@
    ```conda install numpy, matplotlib, opencv, openscad...```--> this is to install all the necessary libraries
 
 3. Let's make some geometries :)
-   - How comfortable are you with Python?\
-   - Do you have experience using CAD software?\
+   - How comfortable are you with Python?
+   - Do you have experience using CAD software?
      1) Getting familiar with openscad
      2) Generate STL files and pattern structures on device
 
