@@ -14,5 +14,6 @@
 3. Let's make some geometries :)\
    - How comfortable are you with Python?\
    - Do you have experience using CAD software?\
-     1) Gettinhg familiar with openscad   2) Generate STL files and pattern structures on device
+     1) Gettinhg familiar with openscad\
+     2) Generate STL files and pattern structures on device
 
