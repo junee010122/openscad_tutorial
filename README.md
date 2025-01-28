@@ -1,4 +1,5 @@
 # openscad_tutorial
 
 1. Setting up git environment for running openscad file\
-   ```ls```
+   ```ls``` : to list the directories
+   ```cd``` : jump into directory
