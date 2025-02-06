@@ -33,7 +33,7 @@ def generate_openscad_script(block_width, block_height, spacing, surface_width, 
         file.write("}\n")
 
 # Parameters
-block_width = 50  # um (contact area width and depth)
+block_width = 55  # um (contact area width and depth)
 block_height = 200  # um
 spacing = 400  # um
 surface_width = 3000  # um (3 mm)
